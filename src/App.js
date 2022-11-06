@@ -9,7 +9,7 @@ export default class App extends Component {
     return (
     <div className="App">
       <Navigation/>
-      <Logo/>
+      {<Logo/>}
       {/* <ImageLinkForm />
       <FaceRecognition /> */}
     </div>
